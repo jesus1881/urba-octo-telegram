@@ -2,20 +2,23 @@
 
 ## Description
 
-Simple html and css fixes for homewebpage for screen sizes bigger than 768px
+Simple HTML and CSS fixes for homewebpage for screen sizes bigger than 768px
 
-![Screenshot](sc1.jpg)
+![screenshot1](develop/assets/img/sc1.png)
 
+![screenshot2](develop/assets/img/sc2.png)
 
-![Screenshot](sc2.jpg)
+![screenshot3](develop/assets/img/sc3.png)
 
-
-![Screenshot](sc3.jpg)
 
 ## Technologies
 
 HMTL
 CSS
+
+## URL
+
+https://jesus1881.github.io/urba-octo-telegram/
 
 ## Authors
 
